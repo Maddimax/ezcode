@@ -1,0 +1,39 @@
+{
+	"token" : "45670wfsegfseg79487sgesgg789",
+	"type" : "receipt",
+	"date" : "1997-07-16T19:20:30+01:00",
+	"data" : {
+		"items" : [
+			{
+				"description" : "3m Scotch Tape",
+				"price" : {
+					"currency" : "euro", 
+					"brutto" : "10.0", 
+					"netto" : "11.9"
+				},
+				"discount" : {
+					"currency" : "euro", 
+					"brutto" : "1.0", 
+					"netto" : "1.19"
+				}, 
+				"amount" : {
+					"units" : "",
+					"value" : 2
+				}
+			},
+			{
+				"description" : "Laugenstange",
+				"price" : {
+					"currency" : "euro", 
+					"brutto" : "1.0", 
+					"netto" : "1.19"
+				},
+				"amount" : {
+					"units" : "",
+					"value" : 5
+				}
+			}
+
+		]
+	}
+}
